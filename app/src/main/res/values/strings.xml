@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LockExample</string>
+    <string name="lock_object_thread_run">lock object thread run</string>
+    <string name="show_logs">show logs</string>
+    <string name="start_synchronized">start_synchronized</string>
+    <string name="sign_tv">线程执行过程中不要打开日志，因为线程打印日志在子线程上，会导致崩溃</string>
+    <string name="lock_class_thread_run">LOCK CLASS THREAD RUN</string>
+    <string name="lock_fun_thread_run">LOCK_FUN_THREAD_RUN</string>
+    <string name="lock_block_thread_run">LOCK_BLOCK_THREAD_RUN</string>
+    <string name="lock_static_fun_thread_run">LOCK_STATIC_FUN_THREAD_RUN</string>
+</resources>
